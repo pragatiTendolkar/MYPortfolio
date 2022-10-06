@@ -24,6 +24,10 @@
     margin-top:25vh;
     margin-left:25vw;
 }
+.navbar {
+    
+    background-color: black;
+}
 
 .nav-link {
     color: white;
