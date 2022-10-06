@@ -18,6 +18,10 @@
 .Mypage3 {
     width: 98vw;
 }
+.Mypage1{
+height: 100vh;
+background-color: aqua;
+}
 
 .nav-link {
     color: white;
