@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Lato&family=Roboto&family=Slabo+27px&display=swap');
 
 .Myweb {
-    background-image: url(background7.jpg);
+    background-image: url(background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -84,7 +84,8 @@
 }
 
 .Mypage2 {
-    padding: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
 }
 
 .profile-about {
@@ -154,3 +155,10 @@ color: aliceblue;
         height: 430px;
        width: 300px;
     }
+    
+    .navbar-brand{
+        width: 25px;
+        height: 25px;
+ 
+     }
+   
