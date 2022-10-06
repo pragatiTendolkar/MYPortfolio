@@ -19,6 +19,11 @@
     width: 98vw;
 }
 
+.Mypage1{
+    
+    margin-top: 50%;
+}
+
 .nav-link {
     color: white;
 }
@@ -29,11 +34,6 @@
     text-align: center;
     box-shadow: 1px 1px 1px 1px rgb(245, 69, 189);
 
-}
-
-intro{
-    
-    margin-top: 50%;
 }
 
 .button {
