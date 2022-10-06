@@ -33,6 +33,11 @@
     color: white;
 }
 
+.nav-link{
+        padding-top: 10px;
+     }
+   
+
 .nav-link:hover {
     border-radius: 5px;
     color: aliceblue;
