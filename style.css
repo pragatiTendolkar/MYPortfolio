@@ -30,6 +30,12 @@
     box-shadow: 1px 1px 1px 1px rgb(245, 69, 189);
 
 }
+
+intro{
+    
+    margin-top: 50%;
+}
+
 .button {
 
     background-color: black;
