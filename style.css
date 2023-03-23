@@ -1,0 +1,112 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: #212529;
+    background: radial-gradient(circle, rgba(53,53,53,1) 0%, rgba(0,1,24,1) 100%);
+}
+.middle-container{
+    position: fixed;
+    z-index: -11111;
+}
+.name-section {
+    
+    font-size: 116px;
+    font-family: sans-serif;
+    width: 100%;
+    font-weight: 800;
+}
+
+.profile-img{
+    width: 290px;
+   
+}
+.outer-imgs-col{
+    background: #ffe082;
+    width: 300px;
+    height: 350px !important;
+}
+
+.middle-container{
+height: 365px !important;
+width: 668px !important;
+
+}
+
+
+.work-namae{
+    color: #ffe082;
+    margin-right: 65px;
+    letter-spacing: 5px;
+    
+    text-shadow: 3px 3px black;
+}
+
+
+#light{
+    position: relative;
+    top: 40px;
+    left: -15px;
+}
+#lineh1{
+    position: absolute;
+    left: 0;
+    width: 90%;
+    height: 8px;
+    background: #ffe082;
+    animation: lineH 4s 5s infinite linear;
+}
+.col-about-me{
+
+    height: 500px;
+    background: #fff;
+   
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes lneH{
+    0%{
+        width: 0%;
+    }
+    100%{
+width: 95%;opacity: .5;
+}
+}
+
+
+
+
+
+
+
+
+/*       about me section         */
+
+.photo-frame {
+    width: 301px;
+    height: 340px;
+    margin: auto;
+    border: 20px solid #ffe082;
+}
+
+.photo-frame img {
+    width: 300px;
+    position: relative;
+    left: 35px;
+    top: -59px;
+}
